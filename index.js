@@ -6,7 +6,7 @@ const port = 3000;
 app.use(express.json());
 
 app.get('/', (req, res) => {
-    res.json({ message: 'Welcome to the API!' });
+    res.json({ message: 'Welcome to the API push to release! OK' });
 });
 
 app.get('/ping', (req, res) => {
