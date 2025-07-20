@@ -1,4 +1,4 @@
-name: Node.js API CI/CD
+name: release ci cd
 
 on:
   push:
